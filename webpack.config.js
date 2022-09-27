@@ -11,4 +11,12 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, 'build') // Changes the directory name
   },
+  module: {
+    rules: [
+      {
+        test: /\.css$/i,
+        use: ['style-loader', 'css-loader'],
+      },
+    ],
+  },
 }
