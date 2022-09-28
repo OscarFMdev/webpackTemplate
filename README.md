@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+ Not yet available, [we are working on it](https://giphy.com/gifs/reactionseditor-cat-typing-ule4vhcY1xEKQ)
 
 
 ## Getting Started
