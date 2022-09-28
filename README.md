@@ -42,9 +42,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@OscarFMdev](https://github.com/OscarFMdev)
+- Twitter: [@OscarFMdev](https://twitter.com/OscarFMdev)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/OscarFMdev)
 
 👤 **Author2**
 
